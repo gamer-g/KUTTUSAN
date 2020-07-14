@@ -23,7 +23,7 @@ PM_START_TEXT = """
 
 എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](tg://user?id={}) ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
 python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. നിങ്ങളുടെ ഗ്രൂപ്പിലേക്ക് എന്നെ ചേർക്കാൻ ["ഇവിടെ"](http://t.me/Dashamoolam_Damu_bot?startgroup=botstart) ക്ലിക്കുചെയ്യുക..
-എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
+എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും...
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
 Using standard [Marie](http://telegram.dog/BanhammerMarie_bot) is always gonna be easier.
